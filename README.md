@@ -1,7 +1,10 @@
-# D-Student-Data-Warehouse
+# AI-Data-Warehouse-for-Students
 It is in interactive desktop based application, created using Python and PostgreSQL.
+Main features:
 
-Features.
+        1. Takes input through Camera also from a Image file saved in Desktop/Laptop
+        
+Other features.
         
         1. Login guard - After 3 incorrenct attemps, Session got Suspended for 2 minutes.
         
