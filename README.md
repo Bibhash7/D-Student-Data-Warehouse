@@ -1,5 +1,7 @@
 # AI-Data-Warehouse-for-Students
-It is in interactive desktop based application, created using Python and PostgreSQL.
+It is in interactive desktop based application, created using Python and PostgreSQL, OpenCV and Tesseract for text extraction.
+
+
 Main features:
 
         1. Takes input through Camera also from a Image file saved in Desktop/Laptop
